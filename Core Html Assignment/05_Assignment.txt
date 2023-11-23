@@ -1,0 +1,24 @@
+Here is a description list of full stack web development tech stacks using the <dlH> tag:
+
+<dlH> <dt>LAMP stack</dt> <dd>The LAMP stack is a popular open-source web development
+stack that consists of Linux, Apache, MySQL, and PHP. It is a versatile and powerful stack
+that can be used to build a wide range of web applications.
+
+</dd> <dt>MEAN stack</dt> <dd>The MEAN stack is a JavaScript-based web development stack
+that consists of MongoDB, Express.js, AngularJS, and Node.js. It is a modern and popular
+stack that is well-suited for building scalable and dynamic web applications.
+
+</dd> <dt>Ruby on Rails</dt> <dd>Ruby on Rails is a full-stack web development framework
+that is based on the Ruby programming language. It is a popular choice for building web
+applications because it is easy to use and provides a wide range of features.
+
+</dd> <dt>Django</dt> <dd>Django is a Python-based web development framework that is known
+for its speed, security, and scalability. It is a popular choice for building large and
+complex web applications.
+
+A tech stack refers to a set of tools, programming languages, and technologies that work 
+together to build digital products or solutions such as websites, mobile, and web apps.
+A tech stack consists of two equally important elements: the frontend (client-side) and
+backend (server-side). Both work together to create a working tech stack. This is also
+referred to as an application stack.
+

@@ -1,0 +1,102 @@
+Q4.Create an ordered list of HTML tags.Each list item must include the tag name and some information about the tag.
+Ans:-  <ol>: Starts the ordered list
+</ol>: Ends the ordered list
+<li>: Starts a list item
+</li>: Ends a list item
+
+example:
+         <ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+The <ol> tag stands for ordered list. The list items are marked with numbers by default.
+You can use an ordered list to represent items in numerical order, alphabetical order, or
+any format where an order is emphasized.
+
+
+Ordered HTML List - The Type Attribute :
+The type attribute of the <ol> tag, defines the type of the list item marker:
+
+type="1"	The list items will be numbered with numbers (default)
+type="A"	The list items will be numbered with uppercase letters
+type="a"	The list items will be numbered with lowercase letters
+type="I"	The list items will be numbered with uppercase roman numbers
+type="i"	The list items will be numbered with lowercase roman numbers
+
+Numbers:
+<ol type="1">
+  <li>Chess</li>
+  <li>Cricket</li>
+  <li>video Game</li>
+</ol>
+
+
+Uppercase Letters:
+<ol type="A">
+  <li>Chess</li>
+  <li>cricket</li>
+  <li>Video Game</li>
+</ol>
+
+
+Lowercase Letters:
+<ol type="a">
+  <li>Milk</li>
+  <li>Tea</li>
+  <li>Coffee</li>
+</ol>
+
+
+Uppercase Roman Numbers:
+<ol type="I">
+  <li>Milk</li>
+  <li>Tea</li>
+  <li>Coffee</li>
+</ol>
+
+
+Lowercase Roman Numbers:
+<ol type="i">
+  <li>Chess</li>
+  <li>Cricket</li>
+  <li>Video Game</li>
+</ol>
+
+
+
+Control List Counting :
+By default, an ordered list will start counting from 1. If you want to start counting from
+a specified number, you can use the start attribute:
+
+Example
+<ol start="50">
+  <li>Chess</li>
+  <li>Cricket</li>
+  <li>Video Game</li>
+</ol>
+
+
+Nested HTML Lists :
+Lists can be nested (list inside list):
+
+Example
+<ol>
+  <li>Cricket</li>
+  <li>Group 1
+    <ol>
+      <li>Mumbai Indians</li>
+      <li>Chennai Super King</li>
+    </ol>
+  </li>
+  <li>Oher Team</li>
+</ol>
+
+A list item (<li>) can contain a new list, and other HTML elements, like images and links, etc.
+
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list.
